@@ -3,12 +3,12 @@ Descriptive Analysis
 (April 2023-October 2024)
 The emergency room dataset, covering a period of 19 months, records a total of 9,216 unique patients.
 
-Monthly View
+
 Patients Wait Time & Satisfaction:
-Consolidated view: The Average wait time was approximately 35.3 minutes, indicating a need for improvement to enhance patients flow. The Average satisfaction score was 4.99 out of 10, suggesting moderate and highlighting areas for improving patient experience.
+The Average wait time was approximately 35.3 minutes, indicating a need for improvement to enhance patients flow. The Average satisfaction score was 4.99 out of 10, suggesting moderate and highlighting areas for improving patient experience.
 
 Departmental Referrals:
-Patient Details:A significant number of Patients (5400) did not required referrals. Among those referred, the most common were General Practice [1840 cases) and Orthopedics (995 cases), followed by Physiotherapy(276 cases) and Cardiology [248 cases)
+A significant number of Patients (5400) did not required referrals. Among those referred, the most common were General Practice [1840 cases) and Orthopedics (995 cases), followed by Physiotherapy(276 cases) and Cardiology [248 cases)
 
 Peek busy Periods:
 The Busiest day were Monday 1377 Patients), Saturday(1322 Patients), and Tuesday (1318 Patients). The busiest hours were 11 AM, 7 PM, 01 PM, and 11 PM indicating need of ample staffing during these periods
